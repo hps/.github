@@ -2,7 +2,7 @@
 
  
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Global_Payments_logo.svg/2560px-Global_Payments_logo.png)
+![image](images/global-logo-color-digital.svg)
 
  
 
